@@ -1,0 +1,17 @@
+CREATE TABLE park (
+park_id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+name TEXT NOT NULL,
+address TEXT NULL,
+city TEXT NULL,
+state TEXT NULL,
+zip_code INTEGER NULL,
+url TEXT NULL,
+map_url TEXT NULL,
+map_google TEXT NULL,
+phone TEXT NULL,
+police_1_id INTEGER NULL,
+police_2_id INTEGER NULL,
+medical_1_id INTEGER NULL,
+medical_2_id INTEGER NULL,
+rating INTEGER NULL,
+comment TEXT NULL);

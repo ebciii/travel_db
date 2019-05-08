@@ -1,0 +1,61 @@
+place_id,name,locale,state,country,url,type,comments
+1,San Juan,San Juan,Puerto Rico,USA,https://www.nytimes.com/2018/03/20/travel/san-juan-puerto-rico-hurricane-52-places.html,vacation,
+2,Ai-Petri Bridges,Yalta,Crimea,Ukraine,https://www.atlasobscura.com/places/aipetri-bridges,adventure,
+3,Appalachian Trail Museum,Gardners,PA,USA,https://www.atmuseum.org/,museum,
+4,Best Trails in Pennsylvania,,PA,USA,https://www.alltrails.com/us/pennsylvania,outdoors,
+5,Pennsylvania State Park Directory,,PA,USA,http://www.dcnr.pa.gov/StateParks/FindAPark/Pages/default.aspx,outdoors,
+6,Pennsylvania Listing - National Park Service,,PA,USA,https://www.nps.gov/state/pa/list.htm?program=parks,national_parks,
+7,Pennsylvania,,PA,USA,http://www.onlyinyourstate.com/pennsylvania/hike-ruins-pa/,outdoors,
+8,5 Best Backpacking Trails in Pennsylvania ,,PA,USA,http://www.susquehannalife.com/2018/03/19/169310/5-best-backpacking-trails-in-pennsylvania,outdoors,
+9,8 Trails In Pennsylvania Will Lead You To Extraordinary Ruins,,PA,USA,http://www.onlyinyourstate.com/pennsylvania/hike-ruins-pa/,outdoors,
+10,Stone Arch Bridge,Philadelphia,PA,USA,https://philly.curbed.com/maps/fairmount-park-things-to-do-see/stone-arch-bridge-2,outdoors,
+11,"Nomadlist: Find your best place to live, work, and play",,,World,https://nomadlist.com/,adventure,
+12,Selin’s Grove Brewing Co.,"Selinsgrove, 121 North Market Street, 17870",PA,USA,http://www.onlyinyourstate.com/pennsylvania/selins-grove-brewing-co-pa/,dining,
+13,Buddy’s Log Cabin Restaurant,"Pine Grove, 97 Tremont Road, 17963",PA,USA,http://www.onlyinyourstate.com/pennsylvania/buddys-log-cabin-pa/,dining,
+14,Hector Falls,"Allegheny National Forest, Ludlow, Warren County",PA,USA,http://www.interestingpennsylvania.com/2016/01/hector-falls-allegheny-national-forest.html,outdoors,
+15,"Lausanne Ruins – Carbon County, PA",Jim Thorpe,PA,USA,http://www.onlyinyourstate.com/pennsylvania/lausanne-ghost-town-2/,outdoors,
+16,Pennsylvania Waterfalls Road Trip - The Ultimate ,,PA,USA,http://www.onlyinyourstate.com/pennsylvania/pa-road-trip-waterfalls/,outdoors,
+17,6 Lazy Rivers In Delaware That Are Perfect For Tubing On A Summer’s Day,,DE,USA,http://www.onlyinyourstate.com/delaware/tubing-in-delaware-de/,water sports,
+18,Barbour Rock ,Tioga County,PA,USA,http://www.docs.dcnr.pa.gov/cs/groups/public/documents/document/dcnr_20032556.pdf,outdoors,
+19,Trail Tracker - The Interactive Trails Map of NJ State Parks,,NJ,USA,https://njdep.maps.arcgis.com/apps/webappviewer/index.html?id=3a27819e5c724c8b97a3c9dd43fd3d9a,oudoors,
+20,Hallgrimskirkja,Reykjavik,,Iceland,https://www.atlasobscura.com/places/hallgrimskirkja,vacation,"The tallest building in Iceland, and certainly one of the most visually impressive."
+21,Svartifoss,,,Iceland,https://www.atlasobscura.com/places/svartifoss,vacation,Unique waterfall in Iceland's south features a backdrop of geometric lava columns.
+22,Bike and Barge Tours in Holland and Europe,Europ,,Holland,https://boatbiketours.com/,vacation,"8 day quality tours by bike and barge. Discover a unique combination of cycling and cruising. More than 70 bike and barge trips in 15 countries, from March until October. "
+23,Marfa,Marfa,TX,USA,https://www.nytimes.com/2018/01/22/travel/marfa-texas-road-trip.html,vacation,Marfa is the artist hub in the middle of the West Texas desert.
+24,The Ultimate Western Pennsylvania Waterfalls Road Trip Is Here,,PA,USA,http://www.onlyinyourstate.com/pennsylvania/western-waterfalls-road-trip-pa/,outdoors,
+25,St. Anthony’s Wilderness,Pine Grove,PA,USA,http://www.midatlantichikes.com/rauschgap.htm,outdoors,The wilderness is explained in this trail description. It's an unofficial name.
+26,US UNESCO Sites: World-class heritage — here in the U.S.,,,USA,https://www.washingtonpost.com/classic-apps/world-class-heritage--here-in-the-us/2018/05/01/33c26570-2c5f-11e8-b0b0-f706877db618_story.html,vacation,
+27,Tank Hollow Vista,Penn Forest Township,PA,USA,https://www.theoutbound.com/pennsylvania/hiking/hike-to-tank-hollow-vista,outdoors,Vista can be accessed by Tank Hollow Tral
+28,Neuschwanstein Castle,Schwangau,,Germany,https://www.facebook.com/atlasobscura/photos/rpp.103921782727/10156473433332728/?type=3&theater,vacation,
+29,Bunkers of Alvira,Allenwood,PA,USA,https://www.atlasobscura.com/places/bunkers-of-alvira,outdoors,
+30,Rio Grande,,TX,USA,https://www.newyorker.com/magazine/2018/04/23/a-voyage-along-trumps-wall,outdoors,
+31,"Nuclear waste bunkers, pyramids and a body farm: 31 things you didn't know were in Pa.",,PA,USA,http://www.pennlive.com/life/2017/06/things_you_didnt_know_were_in_pa.html,day trips,31 unexpected places in pa
+32,Bunkers Of Alvira,Allenwood,PA,USA,"https://www.google.com/maps/dir/40.044947,-75.242506/Bunkers+Of+Alvira,+Alvira+Road,+Allenwood,+PA/@40.8838617,-76.9636532,9z/data=!4m10!4m9!1m1!4e1!1m5!1m1!1s0x89cf0900b732f767:0x3959a40513836507!2m2!1d-76.9591384!2d41.1360368!3e0",day trips,31 unexpected places in pa
+33,French Azilum,Asylum Township,PA,USA,"https://www.google.com/maps/dir/40.044947,-75.242506/French+Azilum,+469+Queens+Rd,+Asylum+Township,+PA+18848/@40.8870486,-76.9632352,8z/data=!3m1!4b1!4m17!1m6!3m5!1s0x89daaa9781faee69:0xe9b21453538d64fe!2sFrench+Azilum!8m2!3d41.735907!4d-76.3117419!4m9!1m1!4e1!1m5!1m1!1s0x89daaa9781faee69:0xe9b21453538d64fe!2m2!1d-76.3117419!2d41.735907!3e0",day trips,31 unexpected places in pa
+34,Canoeing the Bronx River,Bronx,NY,USA,http://www.bronxriver.org/,outdoors,
+35,Vacation Finder - WaPol,,,,https://www.washingtonpost.com/graphics/2018/lifestyle/travel/vacation-finder/,vacation,
+36,Shenandoah National Park; 10 Must Do Hikes,,VA,USA,https://blog.virginia.org/2016/06/must-do-hikes/,outdoors,
+37,"10 Must-Do Hikes near Atlanta, GA",Atlanta,GA,USA,https://www.outdoorproject.com/blog-news/10-must-do-hikes-near-atlanta-ga,outdoors,
+38,Acadia National Park: 3-Day Itinerary,Bar Harbor,ME,USA,https://www.outdoorproject.com/blog-news/3-day-itinerary-acadia-national-park,outdoors,
+39,Colorado State Parks: ,,CO,USA,https://www.outdoorproject.com/blog-news/10-incredible-colorado-state-parks,outdoors,
+40,"Trough Creek State Park: Copperous Rock, Balanced Rock, and Rainbow Falls ",James Creek,PA,USA,http://www.interestingpennsylvania.com/2016/08/trough-creek-state-park.html,outdoors,
+41,"15 Things to Do in Worlds End State Park: Waterfalls, Vistas, and Where to Eat",Forksville,PA,USA,https://uncoveringpa.com/things-to-do-in-worlds-end-state-park,outdoors,
+42,Where to go camping in Pennsylvania this summer ,,PA,USA,https://billypenn.com/2018/06/23/where-to-go-camping-in-pennsylvania-this-summer/,outdoors,
+43,7 Summer Bucket List Adventures In Eastern Pennsylvania ,,PA,USA,https://patch.com/pennsylvania/roxborough/s/ggbe4/7-summer-bucket-list-adventures-eastern-pennsylvania,outdoors,
+44,20+ Awesome Free Things to Do in Philadelphia’s Historic District,Philadelphia,PA,USA,https://www.visitphilly.com/articles/philadelphia/free-things-to-do-in-historic-philadelphia/?utm_source=facebook.com&utm_medium=referral&utm_campaign=VisitPhillyFacebook&utm_content=PaidVPFB_FreeHP-Local,in town,
+45,Mt. Marcy,Adirondacks,NY,USA,https://www.backpacker.com/stories/the-peak-mt-marcy-adirondacks-ny,outdoors,
+46,Trails at Wissahickon Valley Watershed Association,Ambler,PA,USA,http://www.wvwa.org/preserves/,outdoors,
+47,Campgrounds near Ricketts Glen - Recommendations,Benton,PA,USA,https://www.facebook.com/groups/427764640622680/permalink/2043121065753688/?__xts__[0]=68.ARC3kLcVKvewx1tT9OmW9VyUZvNh_RYZtNv5_49_42PBVn275SpOQWiGy5T0wm5RJRIvpP5SkpnF0siO1ZcHB5g8jbChSC9ZNCgGDucNrpY_qRN9WfVszlfagHkZTi-2WawHamAEU9Iu9bteU9mfLUvppkcybLgcShq3QVJlQxDF58JHFNYixgti7UsK3GGEdtGQ0rUj3YgKU2rnnaAAVgVA-TOCUK_UqqNacLDmkw&__tn__=-R,outdoors,FB recommendation
+48,Green Mill Jazz Club,Chicago,IL,USA,https://www.atlasobscura.com/places/green-mill?utm_source=facebook.com&utm_medium=atlas-page,nightlife,"Located in Chicago’s Uptown neighborhood, the Green Mill Lounge is home to more than 100 years of history, a century of world-famous musicians and American mobsters alike."
+49,Appalachian Trail - Triple Crown HIke,,VA,USA,,outdoors,"McAfee Knob, Tinkers cliffs and Dragontooth"
+50,Mt Davis,Elk Lick Township,PA,USA,"https://www.google.com/maps/place/Mt+Davis/@39.7861899,-79.1846393,15z/data=!3m1!4b1!4m5!3m4!1s0x89cab86b6850d3e1:0x69e4c883fceaaa47!8m2!3d39.7861908!4d-79.1758631!5m1!1e4",outdoors,"Mount Davis is the highest point in Pennsylvania. Located in the 5,685-acre Forbes State Forest near the hamlet of Markleton in Elk Lick Township, Somerset County, it lies on a gentle crest of a 30-mile ridge line extending from central Somerset County southward into Garrett County, Maryland known as Negro Mountain."
+51,Monocacy Hill Ruins,Birdsboro,PA,USA,http://exploringnjandpa.com/index.php/2018/10/04/monocacy-hill-ruins-birdsboro-pa/,outdoors,t is worth hiking the main trail from the parking lot (Lower Trail to Monocacy Hill Trail) to see the lookout point. It’s beautiful!
+52,Glenstone Museum,Potomac,MD,USA,https://www.glenstone.org/,museum,WaPo Article - https://www.washingtonpost.com/graphics/2018/lifestyle/glenstone-museum/
+53,20 Trails in Pennsylvania That Will Leave You Breathless,,PA,USA,https://pahappythoughts.com/happy-articles/20-trails-pennsylvania-will-leave-you-breathless?utm_source=Facebook&utm_medium=Social_Media&utm_campaign=FY18_Fall&utm_content=Family_Outdoor_Adventures,outdoors,"Hiking, Biking, Vistas, and Birding"
+54,Delaware River Water Trail,,PA,USA,http://delawareriverwatertrail.org/resources/my-trip-planner/,outdoors,"Website is a trip planner. More general search from Google about canoe put ins in MIlford, PA found at: https://www.google.com/search?q=milford%2C+pa+canoe+put+in&ie=utf-8&oe=utf-8&client=firefox-b-1-ab"
+55,Jaw-dropping Scenic Fall Drives in Pennsylvania,,PA,USA,https://visitpa.com/articles/jaw-dropping-scenic-fall-drives-pennsylvania,vacation,
+56,Fieldstone Farm Tank Creek Nature Preserve,Cresco,PA,USA,http://www.phlt.org/np-fieldstone-farm.html,outdoors,"Preserve provides spring feed flow to the headwaters of Tank Creek, a high quality headwater to the Paradise Creek. It forms an ~1/2 mile boundary between the preserve and State Gamelands #221 (Devil's Hole). It also has two freshwater "
+57,Grand Junction-Moab trail,,CO,USA,https://www.nytimes.com/2018/10/15/travel/biking-the-open-road-in-colorado-with-a-few-bumps-along-the-way.html,biking,"The newly opened Grand Junction-Moab trail, a 155-mile route linked by a network of backcountry huts, and accessible only two months a year, offers an almost irresistible challenge for bikers. "
+58,Middle Eastern: Craig LaBan’s Ultimate Dining 2018,Philadelphia,PA,USA,http://www.philly.com/philly/columnists/craig_laban/best-middle-eastern-food-restaurants-philadelphia-philly-2018.html,restaurant,
+59,Binky Lee Preserve,Chester Springs,PA,USA,https://natlands.org/binky-lee-preserve/,outdoors,
+60,Here are 15 N.J. trails you need to explore this fall,,NJ,USA,https://www.nj.com/entertainment/index.ssf/2018/10/10_nj_trails_you_need_to_explore_this_fall.html,outdoors,
