@@ -1,3 +1,7 @@
+![GitHub tag](https://img.shields.io/github/license/mashape/apistatus.svg)
+
+# travel_db
+
 ## Travel Database ##
 
 *Author:* E Bryan Crenshaw III, PhD
