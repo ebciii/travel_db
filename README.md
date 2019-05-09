@@ -11,7 +11,7 @@ This database is a personal project to keep track of destinations that would be 
 
 #### Using the SQL to Restore the Database ####
 - Fork the project on your computer (or just download the travel_db.sql file)
-- In `Terminal`, type `cat travel.sql | sqlite3 travel.db`
+- In `Terminal`, type `cat travel_db.sql | sqlite3 travel.db`
 
 #### Generate SQL from travel.db on Mac OS X ####
 - In `Terminal`, type `sqlite3 travel.db .dump > travel_db.sql` (gives the entire database)
