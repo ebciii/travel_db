@@ -9,7 +9,15 @@
 #### Objective ####
 This database is a personal project to keep track of destinations that would be interesting to visit, with an emphasis on outdoor destinations.
 
-#### Approach ####
+#### Using the SQL to Restore the Database ####
+- Fork the project on your computer (or just download the travel_db.sql file)
+- In `Terminal`, type `cat travel.sql | sqlite3 travel.db`
+
+#### Generate SQL from travel.db on Mac OS X ####
+- In `Terminal`, type `sqlite3 travel.db .dump > travel_db.sql` (gives the entire database)
+- Alternatively, type `sqlite3 travel.db .schema > travel_db_schema.sql` (gives just the schema)
+
+#### Schema Details ####
 This is a SQlite3 database maintained on Mac OS X using DB Browser for SQLite. The database contains 8 tables listed below:
 
 ```
