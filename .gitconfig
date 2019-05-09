@@ -1,0 +1,3 @@
+[filter "sqlite3"]
+        clean = sqlite3 %f .dump
+        smudge = sqlite3 %f
