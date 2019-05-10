@@ -9,13 +9,27 @@
 #### Objective ####
 This database is a personal project to keep track of destinations that would be interesting to visit, with an emphasis on outdoor destinations.
 
-#### Using the SQL to Restore the Database ####
-- Fork the project on your computer (or just download the travel_db.sql file)
-- In `Terminal`, type `cat travel_db.sql | sqlite3 travel.db`
+##### Important Note on the repo #####
+Typically, the sqlite3 database is a binary file, which isn't an appropriate file type for `git`. My local `git` repo uses a `git` clean/smudge approach to convert the `travel.db` binary sqlite3 format to a SQL script prior to include in the `git` repo (and convert it back to sqlite3 native format when restoring from the `git` repo). In this manner, the database remains usable as a binary file in my local working directory, but is converted to a text based format appropriate for the `git` repo. The section below gives instructions on how to set up the repo on your local computer to use this approach. Alternatively, if you would rather just download and convert the SQL format to the native sqlite3 format, see the subsequent section. 
+
+#### Setting Up The Repo on Your Local Computer ####
+- Clone the project onto your computer (or fork).
+- Run the script, `post_clone_setup_script.sh`. This script will help set up your own repo correctly. It includes two parts: 1) setting up `git config` and attributes to reproduce clean/smudge process after cloning, and 2) converting the sql version of the travel.db database into a binary version.
+
+#### Download the File and Convert to Native Sqlite3 Format ####
+- If you just want to set up the database without the `git` repo, then use the following commands in the terminal (last part of script described above):
+```
+# Convert travel.db from sql statements to a sqlite3 binary
+mv travel.db travel_setup.sql
+cat travel_setup.sql | sqlite3 travel.db
+rm travel_setup.sql
+```
+- Once this is accomplished, it converts the downloaded SQL script from the `travel.db` file in the repo into a binary, native, sqlite3 format.  
 
 #### Generate SQL from travel.db on Mac OS X ####
-- In `Terminal`, type `sqlite3 travel.db .dump > travel_db.sql` (gives the entire database)
-- Alternatively, type `sqlite3 travel.db .schema > travel_db_schema.sql` (gives just the schema)
+- After completing the conversion shown in the section above, you can subsequently generate SQL code for the entire database and its contents or just the schema, as shown in the next 2 bullet points.
+- In `Terminal`, type `sqlite3 travel.db .dump > travel_db.sql` (gives the entire database).
+- Alternatively, type `sqlite3 travel.db .schema > travel_db_schema.sql` (gives just the schema).
 
 #### Schema Details ####
 This is a SQlite3 database maintained on Mac OS X using DB Browser for SQLite. The database contains 8 tables listed below:
