@@ -58,6 +58,7 @@ INSERT INTO tags VALUES(50,'Backpacking','Good places to backpack.');
 INSERT INTO tags VALUES(51,'Beach','');
 INSERT INTO tags VALUES(52,'Water Sports','Use when multiple water sports are involved');
 INSERT INTO tags VALUES(53,'Tubing','');
+INSERT INTO tags VALUES(54,'List','Links that are lists of destinations, like ''best of'' lists. ');
 CREATE TABLE IF NOT EXISTS "trail_park_rel" (
 	`trail_id`	INTEGER,
 	`park_id`	INTEGER,
@@ -374,7 +375,7 @@ INSERT INTO destination VALUES(134,'Visiting the Edgar Allan Poe National Histor
 INSERT INTO destination VALUES(135,'Hike to Somer Brook Falls-SGL 57','SGL-57','PA','USA','https://endlessmountains.wordpress.com/2020/01/28/hike-to-somer-brook-falls-sgl-57/','outdoors','');
 INSERT INTO destination VALUES(136,'Tips for Seeing PA’s Middle Creek Snow Geese Migration','Stevens','PA','USA','https://uncoveringpa.com/middle-creek-snow-geese-migration','outdoors',replace('Seasonal between mid-February and mid-March. Approx. 1.5 hours away, and have to be there by dawn. Google Map - https://www.google.com/maps/dir/407+Wigard+Ave,+Philadelphia,+PA+19128,+USA/40.280597,-76.241502/@40.2168916,-76.2190217,11z/data=!4m9!4m8!1m5!1m1!1s0x89c6b8d4002c73d1:0x2d5cbe20e70dfe61!2m2!1d-75.242097!2d40.044923!1m0!3e0\n','\n',char(10)));
 INSERT INTO destination VALUES(137,'The 10 Most Memorable Hikes in North America',NULL,NULL,NULL,'https://www.backpacker.com/trips/perfect-10-north-america-s-10-most-memorable-hikes','outdoors','');
-INSERT INTO destination VALUES(138,'Hidden Beach In','Penfield','PA','USA','https://www.onlyinyourstate.com/pennsylvania/parker-dam-park-hidden-beach-pa/','outdoors','');
+INSERT INTO destination VALUES(138,'Hidden Beach In Pennsylvania With Clear Waters That Rival The Caribbean','Penfield','PA','USA','https://www.onlyinyourstate.com/pennsylvania/parker-dam-park-hidden-beach-pa/','outdoors','');
 INSERT INTO destination VALUES(139,'6 Long Trails That Are Perfect for Beginners','','','USA','https://thetrek.co/6-long-trails-perfect-beginners/','outdoors','');
 CREATE TABLE IF NOT EXISTS "table2tags" (
 	`table2tag_id`	INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
@@ -559,6 +560,38 @@ INSERT INTO table2tags VALUES(173,17,52,'destination');
 INSERT INTO table2tags VALUES(174,17,53,'destination');
 INSERT INTO table2tags VALUES(175,138,52,'destination');
 INSERT INTO table2tags VALUES(176,139,50,'');
+INSERT INTO table2tags VALUES(177,8,54,'destination');
+INSERT INTO table2tags VALUES(178,9,54,'destination');
+INSERT INTO table2tags VALUES(179,17,54,'destination');
+INSERT INTO table2tags VALUES(180,26,54,'destination');
+INSERT INTO table2tags VALUES(181,31,54,'destination');
+INSERT INTO table2tags VALUES(182,36,54,'destination');
+INSERT INTO table2tags VALUES(183,37,54,'destination');
+INSERT INTO table2tags VALUES(184,41,54,'destination');
+INSERT INTO table2tags VALUES(185,43,54,'destination');
+INSERT INTO table2tags VALUES(186,44,54,'destination');
+INSERT INTO table2tags VALUES(187,60,54,'destination');
+INSERT INTO table2tags VALUES(188,66,54,'destination');
+INSERT INTO table2tags VALUES(189,67,54,'destination');
+INSERT INTO table2tags VALUES(190,68,54,'destination');
+INSERT INTO table2tags VALUES(191,70,54,'destination');
+INSERT INTO table2tags VALUES(192,71,54,'destination');
+INSERT INTO table2tags VALUES(193,72,54,'destination');
+INSERT INTO table2tags VALUES(194,76,54,'destination');
+INSERT INTO table2tags VALUES(195,82,54,'destination');
+INSERT INTO table2tags VALUES(196,83,54,'destination');
+INSERT INTO table2tags VALUES(197,84,54,'destination');
+INSERT INTO table2tags VALUES(198,85,54,'destination');
+INSERT INTO table2tags VALUES(199,86,54,'destination');
+INSERT INTO table2tags VALUES(200,87,54,'destination');
+INSERT INTO table2tags VALUES(201,89,54,'destination');
+INSERT INTO table2tags VALUES(202,90,54,'destination');
+INSERT INTO table2tags VALUES(203,99,54,'destination');
+INSERT INTO table2tags VALUES(204,102,54,'destination');
+INSERT INTO table2tags VALUES(205,113,54,'destination');
+INSERT INTO table2tags VALUES(206,132,54,'destination');
+INSERT INTO table2tags VALUES(207,133,54,'destination');
+INSERT INTO table2tags VALUES(208,137,54,'destination');
 CREATE TABLE IF NOT EXISTS "tables_in_db" (
 	`db_tables`	TEXT,
 	PRIMARY KEY(`db_tables`)
@@ -571,9 +604,9 @@ INSERT INTO tables_in_db VALUES('trail');
 INSERT INTO tables_in_db VALUES('trail_park_rel');
 INSERT INTO tables_in_db VALUES('');
 DELETE FROM sqlite_sequence;
-INSERT INTO sqlite_sequence VALUES('tags',53);
+INSERT INTO sqlite_sequence VALUES('tags',54);
 INSERT INTO sqlite_sequence VALUES('trail',68);
 INSERT INTO sqlite_sequence VALUES('park',39);
 INSERT INTO sqlite_sequence VALUES('destination',139);
-INSERT INTO sqlite_sequence VALUES('table2tags',176);
+INSERT INTO sqlite_sequence VALUES('table2tags',208);
 COMMIT;
